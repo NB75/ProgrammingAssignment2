@@ -23,7 +23,6 @@ makeCacheMatrix <- function(x = matrix()) {
   
 }
 
-
 ## Function that tries to read value of inverted matrix from cache, if available
 ## If matrix is not available in cache, calculation is performed online
 
